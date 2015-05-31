@@ -9,5 +9,5 @@
 * Search and Rescue
 * Appendix 1: Gear lists
 * Appendix 2: Rope and Knots
-* Style Guide
+* [Style Guide](style_guide.md)
 
