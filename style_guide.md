@@ -1,4 +1,8 @@
+
+
 Style, content & sourcing guide
+
+0. The guide is primarily intended for people living in cities, so the stuff that other guides include about hunting for game etc can be left out. 
 
 1. Citations where the source is online should look like this [(SAR Manual)](http://wikipedia.org) and if the source is printed material, like this: (McCarthy, 1991). We'll work up a bibliography when we're done but that's all thats required for now.
 
