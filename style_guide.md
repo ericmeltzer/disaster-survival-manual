@@ -1,6 +1,6 @@
 Style, content & sourcing guide
 
-1. Citations where the source is online should look like this 
+1. Citations where the source is online should look like this [(SAR Manual)](http://wikipedia.org) and if the source is printed material, like this: (McCarthy, 1991). We'll work up a bibliography when we're done but that's all thats required for now.
 
 2. When in doubt, cite. If you want to quote from the source material if it's particularly well phrased on a topic, feel free to do so but keep the quotes short. Any giant block quotes should be rewritten in original language.
 
