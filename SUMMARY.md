@@ -5,5 +5,5 @@
 * [Planning and Kits](planning_and_kits.md)
 * [First Aid](first_aid.md)
 * [Getting Water](getting_water.md)
-* Making Fire
+* [Making Fire](making_fire.md)
 
