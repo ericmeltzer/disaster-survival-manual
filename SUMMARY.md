@@ -7,4 +7,5 @@
 * [Getting Water](getting_water.md)
 * [Making Fire](making_fire.md)
 * Search and Rescue
+* Appendix 1: Gear lists
 
