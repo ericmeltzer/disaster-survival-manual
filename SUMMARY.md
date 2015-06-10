@@ -5,7 +5,7 @@
 * [Planning and Kits](planning_and_kits.md)
 * [First Aid](first_aid.md)
 * [Getting Water](getting_water.md)
-* Earthquake Safety
+* [Earthquake Safety](earthquake_safety.md)
 * [Making Fire](making_fire.md)
 * [Search and Rescue](search_and_rescue.md)
 * [Appendix 1: Gear lists](appendix_1_gear_lists.md)
