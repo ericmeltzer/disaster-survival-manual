@@ -2,10 +2,16 @@ Contributing to this guide:
 
 First, welcome! We're collectively writing and editing the world's best disaster survival resource, which will always be available for free and with a permissive license for people to remix and reuse as they see fit. 
 
-We had a fair chunk of it written, and then we found out that one of our freelancers plagiaraized some stuff. Mega-bummer! Now we're re-writing.
+Second: Here are some primary sources we've been using a lot. Besides these there are a bunch of great blogs out there. I will be adding links and pdfs to this list as we fill out the remaining chapters--if you have a great source, please add it here!
 
+[US Army Survival Guide](https://s3-us-west-1.amazonaws.com/openco/Army+survival+manual.pdf)
+This is an excellent starting place; the information is good, and the writing style is pleasingly to-the-point. It does have a great deal of info that is not relevant to civilians, though.
 
+[San Francisco NERT manual](https://s3-us-west-1.amazonaws.com/openco/NERT+manual.pdf) Also a good starting place, this is the manual San Francisco uses to train Neighborhood Emergency Response Teams
 
+[FEMA's CERT manual](https://s3-us-west-1.amazonaws.com/openco/fema+manual.pdf) Some overlap with NERT manual, but also some good material
+
+[Quake Tips blog](http://quaketips.blogspot.com/) great series of earthquake safety posts
 
 
 Style, content & sourcing
@@ -23,7 +29,7 @@ Style, content & sourcing
 
 5. Refer to "Psychology of Survival" chapter for formatting questions, headers, etc.
 
-6. Favor speed over perfect phrasing. We’ll be repeatedly editing as we go, so it's better to write more than to worry about each sentence too much.
+6. Favor speed over perfect phrasing. We’ll be repeatedly editing as we go, so it's better to write more than to worry about each sentence too much. Ditto formatting problems--if you have one that you cant resolve in 10 minutes, make a note and keep writing.
 
 7. Use the PDF's I sent you as sources, and go to Google for additional source material. For the sample chapter on disaster psychology I sent the first few google hits for "disaster psychology" were very useful CDC papers, for example.
 
