@@ -13,7 +13,7 @@ This is an excellent starting place; the information is good, and the writing st
 
 [Quake Tips blog](http://quaketips.blogspot.com/) great series of earthquake safety posts
 
-Third: please start writing wherever you'd like, except the two appendices 
+Third: please start writing wherever you'd like, except the two appendices. Feel free to write fragments, or even just drop useful tidbits into sections for others to clean up. Any contribution is useful! If you aren't sure where to start, text or call me at 650 223 9444 and I'll assign you something :)
 
 
 Style, content & sourcing
