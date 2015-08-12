@@ -1,6 +1,6 @@
 #Preface
 
-This is a manual, not a novel. It contains the information you need to survive a natural disaster, and help your family and community members do the same. You don't need to read it front-to-back. Read the parts that look useful, and feel free to skip around.
+This is a manual, not a novel. It contains the information you need to survive a natural disaster, and help your family and community members do the same. You don't need to read it front-to-back. Read the parts that look useful, and feel free to skip around. 
 
 Although the emergency response bureaucracies of modern states are among the largest and best-equipped in history, in some ways we've never been more vulnerable as individuals to the damage done by disasters. We've outsourced our own survival skills to trained professionals, and have become highly reliant on centralized organizations as our community ties have become weaker and weaker.
 
