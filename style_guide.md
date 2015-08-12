@@ -13,6 +13,8 @@ This is an excellent starting place; the information is good, and the writing st
 
 [Quake Tips blog](http://quaketips.blogspot.com/) great series of earthquake safety posts
 
+Third: please start writing wherever you'd like, except the two appendices 
+
 
 Style, content & sourcing
 
