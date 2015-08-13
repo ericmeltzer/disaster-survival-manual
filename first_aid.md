@@ -1,5 +1,7 @@
 # First Aid
 
+In a disaster situation, the most important thing you can do is to get help moving to the area. Pick an uninjured bystander and order them loudly and cleary, "YOU, call 911 and tell me when you're done."
+
 http://www.realfirstaid.co.uk/glove/ links to paper about why sterility is unnecessary 
 
 
