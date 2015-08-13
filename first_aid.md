@@ -4,6 +4,13 @@ http://www.realfirstaid.co.uk/glove/ links to paper about why sterility is unecc
 
 
 
+## Triage
+
+If you are uninjured, the first step will be determining the degree of injury to others affected by the incident. In any case of multiple casualties, some will recover if you do nothing, some will die if everything possible is done, others will recover only if the correct things are done quickly. The goal of triage is to identify that third group so that the resources available can be directed to aid them.
+
+Article by Jim MacDonald about triage in disaster situations: http://nielsenhayden.com/makinglight/archives/006708.html
+
+
 
 
 
