@@ -14,7 +14,7 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 
 ## Poisoning Mitigation
 * Household Chemicals. Numerous household chemicals such as cleaning agents, garden products, solvents, paints, and even cosmetics contain hazardous substances that when inhaled, ingested, or come into contact with the skin or eyes can cause serious harm or death. The best way to mitigate such hazards are to not have such products in the home to begin with. To dispose of such items, contact your local hazardous waste authorities. Necessary but hazardous products should be stored away from children and in spill-proof trays to contain liquids should the containers tip-over in a disaster. Dry hazardous materials should be kept in their original containers inside of a sealed plastic bag. Questions about accidental exposure can be directed to the National Poison Control Center at 800-222-1222. 
-* Carbon Monoxide. In the United States, about 430 people die per year due to accidental carbon monoxide poisoning. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6303a6.htm
+* Carbon Monoxide. In the United States, about 430 people die per year due to accidental carbon monoxide poisoning. [QuickStats: Average Annual Number of Deaths and Death Rates from Unintentional, Non–Fire-Related Carbon Monoxide Poisoning,*† by Sex and Age Group — United States, 1999–2010]  http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6303a6.htm
 
 ## Trips, Falls, and Airborne Debris Mitigation
 * Stairways, Rugs, Cords, and Other Tripping Hazards
