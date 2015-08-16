@@ -15,7 +15,6 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 ## Poisoning Mitigation
 * *Reduce and Secure Household Chemicals*. Numerous household chemicals such as cleaning agents, garden products, solvents, paints, and even cosmetics contain hazardous substances that when inhaled, ingested, or come into contact with the skin or eyes can cause serious harm or death. The best way to mitigate such hazards are to not have such products in the home to begin with. To dispose of such items, contact your local hazardous waste authorities. Necessary but hazardous products should be stored away from children and in spill-proof trays to contain liquids should the containers tip-over in a disaster. Dry hazardous materials should be kept in their original containers inside of a sealed plastic bag. Questions about accidental exposure can be directed to the National Poison Control Center at 800-222-1222. 
 * *Install, Test, and Respond to Carbon Monoxide Alarms*. In the United States, about 430 people die per year due to accidental carbon monoxide poisoning. [QuickStats: Average Annual Number of Deaths and Death Rates from Unintentional, Non–Fire-Related Carbon Monoxide Poisoning,*† by Sex and Age Group — United States, 1999–2010] ( http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6303a6.htm) Place carbon monoxide alarms on each level of your dwelling. Note: some smoke alarms come equipped with built-in CO alarms. Carbon monoside is, however, heavier than air and therefore a separate CO alarm should be installed a few inches above the floor. Test the alarms regularly and maintain the batteries.
-* 
 
 ## Trips, Falls, and Airborne Debris Mitigation
 * Inspect Home Stairways, Rugs, Cords, and Other Tripping Hazards.
@@ -23,8 +22,16 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 * Anchor Wall and Overhead Furnishings and Fixtures
 
 ## Airway Obstructions and Drowning Mitigation
-* Purchase N90 Particulate Filter Masks.
-* Learn How to Perform Abdominal Thrusts and CPR.
+
+* *Purchase N95 Particulate Filter Masks.* In disaster scenarios, airway obstructions may result from the inhalation of toxic materials which constrict airways and make it difficult to breath normally. To prevent many such toxins from entering through your nose or mouth use filter masks rated N95 or higher. If your masks are not immediately available, cover your mouth and nose with a clean cloth and breath slowly through your nose (which has more natural filtering capabilities than your mouth).
+* *Learn How to Perform Abdominal Thrusts and CPR.* Abdominal thrusts (previously referred to as the Heimlich Maneuver) can help people expel an object that may be lodged in their throat preventing air from entering their lungs. Cardio-Pulmonary Resuscitation (CPR) is follows a simple ABC method for  means checking a victim's **A**irway for obstructions, checking their **B**reathing, and restoring **C**irculation by squeezing a victims heart between their ribcage and backbone, thereby pumping blood to vital organs after the heart has stopped beating. The skills for administering Abdominal Thrusts and CPR are often taught in the same classes, available from many organizations including the [American Red Cross](http://www.redcross.org/) and the [American Heart Association](http://www.heart.org/). If your household contains children, be sure to get training pertinent to their age group(s).
+
+## Power Outage Mitigation.
+* *Batteries.* For many households the primary source of alternate power is batteries. Indeed, many of our small electronic devices primarily run on batteries which are either replaced or recharged as needed. But large appliances need household current to operate,and an extra set of AA or AAA batteries won't help. Businesses sometimes have very large battery systems that are designed to keep vital systems running, usually until such time as an alternate source of power (such as a generator, below) becomes operational. Critical medical systems (such as breathing apparatuses and IV therapy) which are dependent on household power often have built-in batteries to enable them to continue to operate for a short period of time. External batteries in the form of Uninterruptable Power Supplies (UPS) may be used to supplement on-board batteries but will themselves fail over time.
+* *Generating Power.* 
+
+
+
 
 ## Making an Emergency Plan
 
@@ -34,14 +41,11 @@ You can't plan for every possible contingency. Emergency managers suggest that y
 
 
 **Who is in the plan?**
-
 Next, consider who you need to include in your disaster plan.Start with yourself and then geographically expand the plan to include your family, friends, and animals. You must also consider the possible locations of your plan participants when a disaster occurs, such as home, work, school, or elsewhere.
 
 Your plan needs to include any special needs of the plan participants based on age, health status, and mobility.
 
-**How will you communicate with one another?**
-
-Communications is the key to the smooth functioning of a plan. Many of us routinely use electronic communications with plan participant  which may not be available in the immediate aftermath of a disaster. Assume that mobile phones, landlines, and internet will not be working. 
+**How will you communicate with one another?** Communications is the key to the smooth functioning of a plan. Many of us routinely use electronic communications with plan participant  which may not be available in the immediate aftermath of a disaster. Assume that mobile phones, landlines, and internet will not be working. 
 
 Your plan should include an assembly area (your home is the logical primary choice) that people will try to make their way to following a disaster. However, you should also plan an alternate assembly area in case your home is destroyed or unsafe, such as a school, park, or some other location your disaster probability analysis has indicated will likely be outside of the impacted area. If possible, leave a sign at your primary assembly area telling people to meet you at the alternate location.
 
@@ -49,18 +53,17 @@ While restoring communications will be a top priority of emergency personnel fol
 
 **Person to Person and/or Point to Point Communications**
 
-* Landline. Local calls may not be possible, but long-distance calls may actually work. Stay on the line until you hear a dialtone, and then call an out-of-state contact to let them know your status. Make sure everyone in your plan knows this contact person and how to reach them.
-* Mobile Phone. Mobile phone towers will be damaged and/or overloaded.
-* SMS. If you can get a mobile signal, try sending a SMS message. These messages will enter a queue and will may eventually be delivered hours or even days later.
-* FRS/GMRS. These walkie-talkie like radios are goof for short distance communications. FRS does not require a license from the FCC, however GMRS radios do. You will often find FRS and GMRS offered on the same radio handset.
-* Amateur Radio, Including Packet Data. The most reliable form of disaster communications is Amateur Radio, also known as "ham" radio. This requires a license from the FCC. While primarily used for voice communications, some ham operators can send email and other files through radios connected to the Internet.
-
+* *Landline*. Local calls may not be possible, but long-distance calls may actually work. Stay on the line until you hear a dialtone, and then call an out-of-state contact to let them know your status. Make sure everyone in your plan knows this contact person and how to reach them.
+* *Mobile Phone*. Mobile phone towers will be damaged and/or overloaded.
+* *SMS*. If you can get a mobile signal, try sending a SMS message. These messages will enter a queue and will may eventually be delivered hours or even days later.
+* *FRS/GMRS Radio*. These inexpensive, walkie-talkie-like radios are good for short distance communications, a few city blocks, up to several miles in an unobstructed location. Family Radio Service (FRS) does not require a license from the FCC, however General Mobile Radio Service (GMRS) radios do. You will often find FRS and GMRS capabilities offered in the same radio handset.
+* *Amateur Radio, Including Packet Data.* The most reliable form of disaster communications is Amateur Radio, also known as "ham" radio. This requires a license from the FCC. While primarily used for voice communications, some ham operators can send email and other files through radios connected to the Internet.
 
 **Listening to Broadcasts**
 
-* AM/FM Radio: have a portable radio with extra batteries
-* Television: cable and satellite TV will probably be off-line; however, broadcast TV may be working. A battery-operated TV may be useful. 
-* Internet: Your internet service provider will likely be off-line; radio or microwave-based ISPs may still be operational
+* *AM/FM Radio.* have a portable radio with extra batteries
+* *Television.* cable and satellite TV will probably be off-line; however, broadcast television stations often disaster resistant broadcast capabilities. Since power may be out, a battery-operated TV may be useful. 
+* *Internet.* Your internet service provider will likely be off-line; radio or microwave-based ISPs may still be operational
 
 
 **Signs and Bulletin Boards**
@@ -85,7 +88,6 @@ While restoring communications will be a top priority of emergency personnel fol
 * Never ration water; find more (check hot water tank, toilet tank, freezer, water pipes)
 * Purify your own water:
 
-
 **Food**
 
 * 1500 calories per person per day
@@ -103,6 +105,7 @@ While restoring communications will be a top priority of emergency personnel fol
 * Sun exposure
 * Privacy
 * Sleep
+* Lighting
 
 Vehicles, tents, tarps
 Mass care shelters
