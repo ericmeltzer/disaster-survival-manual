@@ -30,28 +30,24 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 * *Generating Power.* Power outages that last more than a few days could jeopardize the health and well-being of those dependent on certain medical devices. Depending upon the local weather conditions homes may become dangerously hot or cold. Refrigerated food supplies may spoil and cook stoves unusable. If your reply on well water your pump will not be working. Communications will be impaired. For reasons such as these you may wish to consider alternate means of generating all or a portion of the electricity your household requires. Look into portable generators, solar and wind power to determine if their use is feasible for your household situation.
 * *Lighting.* No matter your particular power situation, human beings need light to operate safely at night. Be sure to lay-in a supply of flashlights (and extra batteries), hand-crank lighting, camp lanterns (with extra fuel), and other means of illumination from personal lights to large area lights.
 
-
-
-
 ## Making an Emergency Plan
 
 You can't plan for every possible contingency. Emergency managers suggest that you start with *probable* hazards based on your location and occupation.
 
 **Natural and Manmade/Technologial Disasters.** Consider the most probable types of *natural* disasters: earthquake, hurricane, tornado, floods, blizzard, wild fire, landslide, tsunami, and the the most probable *man-made or technological* disasters: radiological/nuclear, biological or chemical release, explosion, civil disturbance, dam failure, mass transportation incident, long-term electrical outage.
 
-
 **Who is in the plan?**
-Next, consider who you need to include in your disaster plan.Start with yourself and then geographically expand the plan to include your family, friends, and animals. You must also consider the possible locations of your plan participants when a disaster occurs, such as home, work, school, or elsewhere.
+Next, consider who you need to include in your disaster plan. Start with yourself and then geographically expand the plan to include your family, friends, and animals. You must also**** consider the possible locations of your plan participants when a disaster occurs, such as home, work, school, or elsewhere.
 
 Your plan needs to include any special needs of the plan participants based on age, health status, and mobility.
 
-**How will you communicate with one another?** Communications is the key to the smooth functioning of a plan. Many of us routinely use electronic communications with plan participant  which may not be available in the immediate aftermath of a disaster. Assume that mobile phones, landlines, and internet will not be working. 
+**How will you communicate with one another?** Communications is the key to the smooth functioning of a plan. Many of us routinely use electronic communications with plan participant  which may not be available in the immediate aftermath of a disaster. Assume that mobile phones, landlines, and internet will *not* be working. 
 
 Your plan should include an assembly area (your home is the logical primary choice) that people will try to make their way to following a disaster. However, you should also plan an alternate assembly area in case your home is destroyed or unsafe, such as a school, park, or some other location your disaster probability analysis has indicated will likely be outside of the impacted area. If possible, leave a sign at your primary assembly area telling people to meet you at the alternate location.
 
 While restoring communications will be a top priority of emergency personnel following a disaster, their first priority will be communications for disaster responders, government, businesses and lastly the general public. Meanwhile, you need to try to stay abreast of disaster news as best as you can,
 
-**Person to Person and/or Point to Point Communications**
+**Communicating Person to Person or Point to Point**
 
 * *Landline*. Local calls may not be possible, but long-distance calls may actually work. Stay on the line until you hear a dialtone, and then call an out-of-state contact to let them know your status. Make sure everyone in your plan knows this contact person and how to reach them.
 * *Mobile Phone*. Mobile phone towers will be damaged and/or overloaded.
