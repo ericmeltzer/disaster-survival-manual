@@ -6,8 +6,7 @@ Mitigate First, Then Plan
 
 ## Mitigating Hazards
 
-Even though we may consider are homes to be refuges,they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. There are easy steps homeowners can take to reduce the possibility of injury or death for each of these as well as knowing what to do if something bad happens.
-
+Even though we may consider are homes to be refuges, they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. There are easy steps homeowners can take to reduce the possibility of injury or death for each of these as well as knowing what to do if something bad happens.
 
 ## Fires
 * Fire Hazards
@@ -29,14 +28,36 @@ Even though we may consider are homes to be refuges,they can be dangerous places
 ## Drowning
 
 
-## Broadcast
+## Making an Emergency Plan
+* What types of emergencies are probable?
+
+You can't plan for every possible contingency. Emergency managers suggest that you start with *probable* hazards based on your location and occupation.
+
+Consider the most probable types of *natural* disasters: Earthquake, Hurricane, Tornado, Floods, Blizzard, Wild Fire, Landslide, Tsunami
+
+Consider the most probable *man-made or technological* disasters: Radiological/Nuclear, Biological or Chemical Release, Explosion, Civil Disturbance, Dam Failure, Mass Transportation Incident, Long-term Electrical Outage
+
+
+* Who is in the plan?
+
+Next, consider who you need to include in your disaster plan.Start with yourself and work out to include your family, friends, and animals.
+
+* Where they be when disaster happens?
+
+Home, school, work, other
+
+* How will you communicate with one another?
+
+
+## Communications
+**Broadcast**
 
 * AM/FM Radio
 * Shortwave
 * Television
 * Internet
 
-## Person to Person and/or Point to Point
+**Person to Person and/or Point to Point**
 
 * Landline
 * Mobile Phone
