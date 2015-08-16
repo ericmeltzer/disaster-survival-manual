@@ -20,13 +20,14 @@ Elsewhere in this guide we have described the disaster management cycle of mitig
 6. Kits
 
 
+
 ## Reducing Hazards
 
 Even though we may consider are homes to be refuges,they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. There are easy steps homeowners can take to reduce the possibility of injury or death for each of these as well as knowing what to do if something bad happens.
 
-## 
 
-Fire Hazards
+## Fire Hazards
+
 Most of us learned basic fire safety in elementary school:
 * never use flammable liquids indoors
 * store flammable liquids in approved containers and in well-ventilated areas
@@ -36,12 +37,50 @@ Most of us learned basic fire safety in elementary school:
 * keep fireplaces screened and store ashes in a metal container
 * keep space heaters at least three feet away from flammable materials such as bedding, draperies, and furniture
 * don't overload electrical circuits
+
+
 Now imagine that you are an inspector for the fire department. Your job is to identify every possible hazard that you can in your home. 
 *What to you see?*
-Flammable liquids such as cooking oils, hairspray, nail polish remover, and oil paints?
-A fireplace and no one at home remembers when it was last inspected?
-A place heater that's stuck away under a desk right next to a wastebasket?
-Two power strips, one plugged into the other, with a wire running underneath a throw rug?
+
+* Flammable liquids such as cooking oils, hairspray, nail polish remover, and oil paints?
+* A fireplace and no one at home remembers when it was last inspected?
+* A space heater that's stuck away under a desk right next to a wastebasket?
+* Two power strips, one plugged into the other, with a wire running underneath a throw rug?
+
+
+The implications are clear. Most homes will fail in at least one of these areas. While we may not be able to avoid the use of all flammable liquids in our homes, we can be mindful about where we store and use them. We can have our fireplaces inspected and exercise reasonable caution when using them. Space heaters can be better positioned, and electrical outlets and extensions cords used safely (check the packaging). 
+
+
+## Fire, Smoke and Carbon Monoxide Alarms
+
+
+## Fire Suppression
+
+
+## Escape and Reunion
+
+
+## Hazardous Materials
+
+
+## Kits
+Home
+Work
+Auto
+
+Special Needs
+Children
+Pets
+Elderly
+Disabled
+
+Basic Needs: Water, Food, Air, Shelter
+Safety Needs: psyschologial, community, 
+
+
+Financial Kits
+
+
 
 
 
