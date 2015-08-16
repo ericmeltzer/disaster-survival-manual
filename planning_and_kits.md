@@ -2,16 +2,14 @@
 
 Writing down a plan and packing a disaster kit are the best things you can do to be ready for a natural disaster. Even the most basic plan and kit will vastly improve your outlook if a disaster occurs: for the seven to ten days it takes for the rescue effort to arrive, you'll be warm, healthy, and full, and therefore able to make good decisions without the distractions that hunger, cold, and injuries bring.
 
-Mitigate First, Then Plan
 
-## Mitigating Hazards
+## Mitigate First, Then Plan
 
 Even though we may consider are homes to be refuges, they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. There are easy steps homeowners can take to reduce the possibility of injury or death for each of these as well as knowing what to do if something bad happens.
 
 ## Fires
-* Fire Hazards
-* Smoke Alarms
-* Fire Suppression
+* Install, Maintain, and Respond to Smoke Alarms
+* Putting Out a Fire
 * Escape and Reunion
 
 ## Poisoning
@@ -24,11 +22,10 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 * Wall and Overhead Furnishings and Fixtures
 
 ## Airway Obstructions and Drowning
-* Airborne hazards
+* Airborne Hazards
 * Floods
 
 ## Making an Emergency Plan
-* What types of emergencies are probable?
 
 You can't plan for every possible contingency. Emergency managers suggest that you start with *probable* hazards based on your location and occupation.
 
