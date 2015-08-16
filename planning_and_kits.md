@@ -63,20 +63,41 @@ The implications are clear. Most homes will fail in at least one of these areas.
 ## Hazardous Materials
 
 
-## Kits
-Home
-Work
-Auto
+## Communications
 
-Special Needs
-Children
-Pets
-Elderly
-Disabled
 
-Basic Needs: Water, Food, Air, Shelter
-Safety Needs: psyschologial, community, 
 
+
+# Kits
+
+## Types of Kits by Location
+* Home
+* Work
+* Auto
+
+
+## Types of Kits by Users
+
+* General
+* Children
+* Elderly
+* Disabled
+* Pets
+* Livestock
+
+
+## Contents of Kits
+Basic Needs: 
+* Water
+* Food
+* Air
+* Shelter
+* Sleep
+* Sanitation
+
+Safety Needs: 
+* personal security
+* property and resources
 
 Financial Kits
 
