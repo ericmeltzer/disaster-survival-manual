@@ -2,7 +2,6 @@
 
 Writing down a plan and packing a disaster kit are the best things you can do to be ready for a natural disaster. Even the most basic plan and kit will vastly improve your outlook if a disaster occurs: for the seven to ten days it takes for the rescue effort to arrive, you'll be warm, healthy, and full, and therefore able to make good decisions without the distractions that hunger, cold, and injuries bring.
 
-
 ## Mitigate First, Then Plan
 
 Even though we may consider are homes to be refuges, they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. Homeowners can take easy steps reduce the possibility of injury or death for each of these risks as well as knowing what to do if something bad happens.
@@ -26,9 +25,10 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 * *Purchase N95 Particulate Filter Masks.* In disaster scenarios, airway obstructions may result from the inhalation of toxic materials which constrict airways and make it difficult to breath normally. To prevent many such toxins from entering through your nose or mouth use filter masks rated N95 or higher. If your masks are not immediately available, cover your mouth and nose with a clean cloth and breath slowly through your nose (which has more natural filtering capabilities than your mouth).
 * *Learn How to Perform Abdominal Thrusts and CPR.* Abdominal thrusts (previously referred to as the Heimlich Maneuver) can help people expel an object that may be lodged in their throat preventing air from entering their lungs. Cardio-Pulmonary Resuscitation (CPR) is follows a simple ABC method for  means checking a victim's **A**irway for obstructions, checking their **B**reathing, and restoring **C**irculation by squeezing a victims heart between their ribcage and backbone, thereby pumping blood to vital organs after the heart has stopped beating. The skills for administering Abdominal Thrusts and CPR are often taught in the same classes, available from many organizations including the [American Red Cross](http://www.redcross.org/) and the [American Heart Association](http://www.heart.org/). If your household contains children, be sure to get training pertinent to their age group(s).
 
-## Power Outage Mitigation.
+## Power Outage Mitigation
 * *Batteries.* For many households the primary source of alternate power is batteries. Indeed, many of our small electronic devices primarily run on batteries which are either replaced or recharged as needed. But large appliances need household current to operate,and an extra set of AA or AAA batteries won't help. Businesses sometimes have very large battery systems that are designed to keep vital systems running, usually until such time as an alternate source of power (such as a generator, below) becomes operational. Critical medical systems (such as breathing apparatuses and IV therapy) which are dependent on household power often have built-in batteries to enable them to continue to operate for a short period of time. External batteries in the form of Uninterruptable Power Supplies (UPS) may be used to supplement on-board batteries but will themselves fail over time.
-* *Generating Power.* 
+* *Generating Power.* Power outages that last more than a few days could jeopardize the health and well-being of those dependent on certain medical devices. Depending upon the local weather conditions homes may become dangerously hot or cold. Refrigerated food supplies may spoil and cook stoves unusable. If your reply on well water your pump will not be working. Communications will be impaired. For reasons such as these you may wish to consider alternate means of generating all or a portion of the electricity your household requires. Look into portable generators, solar and wind power to determine if their use is feasible for your household situation.
+* *Lighting.* No matter your particular power situation, human beings need light to operate safely at night. Be sure to lay-in a supply of flashlights (and extra batteries), hand-crank lighting, camp lanterns (with extra fuel), and other means of illumination from personal lights to large area lights.
 
 
 
@@ -109,7 +109,6 @@ While restoring communications will be a top priority of emergency personnel fol
 
 Vehicles, tents, tarps
 Mass care shelters
-
 
 **Sanitation**
 * Skin, Hair, Mouth
