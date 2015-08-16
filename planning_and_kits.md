@@ -5,23 +5,23 @@ Writing down a plan and packing a disaster kit are the best things you can do to
 
 ## Mitigate First, Then Plan
 
-Even though we may consider are homes to be refuges, they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. There are easy steps homeowners can take to reduce the possibility of injury or death for each of these as well as knowing what to do if something bad happens.
+Even though we may consider are homes to be refuges, they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. Homeowners can take easy steps reduce the possibility of injury or death for each of these risks as well as knowing what to do if something bad happens.
 
-## Fires
-* Install, Maintain, and Respond to Smoke Alarms
-* Putting Out a Fire
-* Escape and Reunion
+## Fire Mitigation
+* Install, Maintain, and Respond to Smoke Alarms. Smoke alarms have a life expectancy of 8-10 years. The year of manufacture is stamped on each alarm. If yours is 8-10 years old, replace it. You can optionally install lithium batteries in the new detectors with a life expectancy of 10 years and save money in the long run versus alkaline batteries that should be replaced annually. Remember to regularly push test your alarm to make sure it is functioning, and should you ever hear an unexplained alarm sound, get out and stay out.
+* Putting Out a Fire. All homeowners should have readily accessible type ABC fire extinguisher on each floor of their dwelling, and know how to use it. Remembers the P.A.S.S. system: **P**ull the pin, **A**im the nozzle, **S**queeze the trigger, and **S**weep left and right at the base of the flames. Never try to put out a fire on your own that is larger than the size of an office waste basket.
+* Escape and Reunion. Move obstacles out of areas that may impede escape from  fire. Ideally, each room in your home should have at least two emergency exits. If one of those exits is a window, make sure that the window can be easily opened by all members of your household and, where needed, consider adding an emergency escape ladder that could be hung from the window. Practice using your emergency exits and be sure that everyone knows where to gather following escape, such as a driveway, front yard, or other safe area so you know who is accounted for.
 
-## Poisoning
-* Household Chemicals
-* Carbon Monoxide
+## Poisoning Mitigation
+* Household Chemicals. Numerous household chemicals such as cleaning agents, garden products, solvents, paints, and even cosmetics contain hazardous substances that when inhaled, ingested, or come into contact with the skin or eyes can cause serious harm or death. The best way to mitigate such hazards are to not have such products in the home to begin with. To dispose of such items, contact your local hazardous waste authorities. Necessary but hazardous products should be stored away from children and in spill-proof trays to contain liquids should the containers tip-over in a disaster. Dry hazardous materials should be kept in their original containers inside of a sealed plastic bag. Questions about accidental exposure can be directed to the National Poison Control Center at 800-222-1222. 
+* Carbon Monoxide. In the United States, about 430 people die per year due to accidental carbon monoxide poisoning. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6303a6.htm
 
-## Trips, Falls, and Airborne Debris
+## Trips, Falls, and Airborne Debris Mitigation
 * Stairways, Rugs, Cords, and Other Tripping Hazards
 * Water, Slippery Surfaces
 * Wall and Overhead Furnishings and Fixtures
 
-## Airway Obstructions and Drowning
+## Airway Obstructions and Drowning Mitigation
 * Airborne Hazards
 * Floods
 
