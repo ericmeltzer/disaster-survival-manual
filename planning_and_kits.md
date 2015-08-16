@@ -30,9 +30,7 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 
 You can't plan for every possible contingency. Emergency managers suggest that you start with *probable* hazards based on your location and occupation.
 
-Consider the most probable types of *natural* disasters: Earthquake, Hurricane, Tornado, Floods, Blizzard, Wild Fire, Landslide, Tsunami
-
-Consider the most probable *man-made or technological* disasters: Radiological/Nuclear, Biological or Chemical Release, Explosion, Civil Disturbance, Dam Failure, Mass Transportation Incident, Long-term Electrical Outage
+**Natural and Manmade/Technologial Disasters.** Consider the most probable types of *natural* disasters: earthquake, hurricane, tornado, floods, blizzard, wild fire, landslide, tsunami, and the the most probable *man-made or technological* disasters: radiological/nuclear, biological or chemical release, explosion, civil disturbance, dam failure, mass transportation incident, long-term electrical outage.
 
 
 **Who is in the plan?**
