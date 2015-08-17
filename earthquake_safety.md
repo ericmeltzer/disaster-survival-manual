@@ -1,7 +1,13 @@
 # Earthquake Safety
 
--talke about earthquake proofing a house
+## Preparing for an Earthquake
+Secure the top of furniture that can tip over, such as book shelves, dressers, wall cabinets, and armoires. Furniture often comes with braces or wall straps for this purpose, but you can also buy these separately. Make sure you find and screw into a wall stud when you attach the brace or wall strap.
 
+Anything that hangs on a wall can fall even in a small earthquake. To prevent this, hang picture frames and objects using picture wire and "maze hooks". You should still avoid hanging anything over your bed that could fall on you while you sleep.
+
+
+
+## During an Earthquake
 
 ### Stay Inside or Go Outside
 Generally, you will be safer staying inside a building than going outside. If you are in a developed country, where building codes are stricter, buildings are unlikely to collapse. If you are outside, fixtures, window glass, and bricks falling off of buildings are a greater threat.
