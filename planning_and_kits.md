@@ -42,7 +42,7 @@ Consider the most probable types of *natural* disasters: earthquake, hurricane, 
 ###Who Is in The Plan?
 Next, consider who you need to include in your disaster plan. Start with yourself and then geographically expand the plan to include your family, friends, and animals. You must also**** consider the possible locations of your plan participants when a disaster occurs, such as home, work, school, or elsewhere.
 
-Your plan needs to include any special needs of the plan participants based on age, health status, and mobility.
+Your plan needs to include any special needs of the plan participants based on age, health status, and mobility. Non-English speakers should have a phrase book or smartphone app to assist with communications. 
 
 ###Emergency Communications
 Communications is the key to the smooth functioning of a plan. Many of us routinely use electronic communications with plan participant  which may not be available in the immediate aftermath of a disaster. Assume that mobile phones, landlines, and internet will *not* be working. 
