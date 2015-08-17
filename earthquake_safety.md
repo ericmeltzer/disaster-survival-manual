@@ -30,3 +30,8 @@ Do not run outside. Generally, you will be safer staying inside a building than 
 Statistically, you are still safer inside even if you are in areas where building codes are inadequate. Most buildings do not collapse. If you are outside, you are in as much danger from rubble falling from a nearby building that does collapse.
 
 There is no single rule that will guarantee your safety in a large earthquake. If you know your building is not sound, such as the ground floor of an unreinforced mud-brick building, you should try to get out. But know that when you are outside, nearby buildings and structures pose a great danger too.
+
+### Outside
+If you are outside, move to a clear area if you can. Do not stay next to a building, where bricks, windows glass, and fixtures can fall on you. Also avoid power lines, trees, and vehicles.
+
+If you are in your car, pull over and set your parking brake. Stay inside your car. Avoid overpasses, bridges, power lines, and signs.
