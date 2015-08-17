@@ -2,7 +2,7 @@
 
 Writing down a plan and packing a disaster kit are the best things you can do to be ready for a natural disaster. Even the most basic plan and kit will vastly improve your outlook if a disaster occurs: for the seven to ten days it takes for the rescue effort to arrive, you'll be warm, healthy, and full, and therefore able to make good decisions without the distractions that hunger, cold, and injuries bring.
 
-## Mitigate First, Then Plan
+## Step 1. Mitigate First, Then Plan
 
 Even though we may consider are homes to be refuges, they can be dangerous places. According to the National Safety Council, the five leading causes of deaths in homes include fires and burns, poisoning, falling, airway obstruction, and drowning. Homeowners can take easy steps reduce the possibility of injury or death for each of these risks as well as knowing what to do if something bad happens.
 
@@ -30,7 +30,7 @@ Even though we may consider are homes to be refuges, they can be dangerous place
 * *Generating Power.* Power outages that last more than a few days could jeopardize the health and well-being of those dependent on certain medical devices. Depending upon the local weather conditions homes may become dangerously hot or cold. Refrigerated food supplies may spoil and cook stoves unusable. If your reply on well water your pump will not be working. Communications will be impaired. For reasons such as these you may wish to consider alternate means of generating all or a portion of the electricity your household requires. Look into portable generators, solar and wind power to determine if their use is feasible for your household situation.
 * *Lighting.* No matter your particular power situation, human beings need light to operate safely at night. Be sure to lay-in a supply of flashlights (and extra batteries), hand-crank lighting, camp lanterns (with extra fuel), and other means of illumination from personal lights to large area lights.
 
-## Making an Emergency Plan
+## Step 2. Make an Plan
 
 You can't plan for every possible contingency. Emergency managers suggest that you start with *probable* hazards based on your location and occupation.
 
@@ -67,10 +67,10 @@ While restoring communications will be a top priority of emergency personnel fol
 * Post photos to help identify people you are looking for in case they can't communicate for themselves.
 * Date each notice you place and provide information about how to contact you.
 
-# Making the Plan-Kit Connection
+# Step 3. Make a Kit
 Your emergency plan informs what you need in and where you locate your emergency kits. Yes, that is kits, plural, because you never know where you might be when disaster strikes and unless you plan to have your kit in a backpack, and our backpack always with you, your will need more than one.
 
-## Kit L**ocations?
+## Kit Locations
 * Home**. This is your primary kit, meant to support you and other members of your household, for up to 7 days. (Other authorities will suggest 3 days of emergency supplies. Experience following major disaster such as hurricanes Katrina and Sandy, blizzards in New England, and other events suggests that it may take up to a week for significant emergency resources to reach an area. More and more Community Emergency Response Teams (CERT) are now recommending one week of supplies.)
 * *Work*. The contents of work kit depends upon the emergency plans of your workplace. Some businesses have robust emergency plans including "arks" brimming with emergency supplies, employees trained in first aid, search and rescue, and radio communications. Your employer may be prepared to support its employees for several days if necessary. (Many schools have such plans, so if you have school-age children they will be taken care of.) Small businesses may have nothing more than a first aid kit. Inquire about your workplace plans. At the very least, be sure you have a supply of any prescription medications you may need to take and a backpack that could support you should you need to walk home.
 * *Vehicle*. Many people own a vehicle. If you use your vehicle to get to work and park it in an area unlikely to be affected by a disaster, you may decide to combine your work kit and vehicle kit. However, our vehicles often transport more than just one person, so its prudent to have supplies in a vehicle kit to support yourself and several passengers. Keep your kit in the trunk or under a blanket or tarp to conceal it from would-be thieves.
