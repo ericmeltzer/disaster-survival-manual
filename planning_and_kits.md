@@ -95,7 +95,7 @@ This is the most basic of questions. Our answer begins with the most basic of ne
 
 **Air**
 * Assume that local air may contain hazardous chemicals,  particulates, or biological pathogens; have filter masks for everyone in your household
-* Disasters stink, literally and figuratively. Be prepared for unpleasant odors by having a jar of Vicks or similar mentholated gel to place beneath your nose.
+* Disasters stink, literally and figuratively. Be prepared for unpleasant odors by having a jar of Vicks® VapoRub™, mint oil,  or another aromatic to dab beneath your nose.
 
 **Shelter**
 * Air Temperature
