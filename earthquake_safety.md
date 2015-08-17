@@ -16,7 +16,7 @@ Secure any important loose items in your home. You can use "quake putty", a reus
 ###Drop, Cover, Hold on
 If you are inside, as soon as you sense shaking, get down to the ground, so you don't fall. Find a sturdy piece of furniture, such as a desk or table, and crawl under it and hold on. The biggest danger is from falling or flying objects, which is why under furniture is the safest place to be. If you cannot find something to get under, crouch next to an interior wall and cover your head and neck with your arms.
 
-Contrary to popular belief, do NOT stand inside a doorway. In modern homes, door frames are not stronger than other parts of the house, and standing in a doorway does not protect you from flying objects.
+Contrary to popular belief, do **not** crouch next to furniture and do **not** stand inside a doorway. These actions do not protect you from the biggest source of injury: falling and flying objects.
 
 Source: http://www.earthquakecountry.info/dropcoverholdon/
 
