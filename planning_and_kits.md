@@ -147,8 +147,7 @@ Natural and man-made disasters always have a significant financial impact on the
 
 *Cash.* Include cash in your kit. How much is up to you, but be aware that banks and other financial institutions may not be able open for some time, ATM machines may be nun-functional, and credit/debit cards transactions unavailable. Cash may be the only option available to you for purchasing needed items. Businesses that are open may not accept large denomination bills if they are short on cash themselves.
 
-*Alternatives to Storing Documents in Your Kit*
-If you are worried about keeping documents in your kit consider placing digitally encrypted copies online.You can also encrypt copies and put them on USB drive in your kit. If you are uncomfortable with any sort of digital storage of files, make copies and place them in the custody of a trusted relative or friend, preferably outside of your immediate area.
+*Alternative Documents Storage.* If you are worried about keeping documents in your kit consider placing digitally encrypted copies online.You can also encrypt copies and put them on USB drive in your kit. If you are uncomfortable with any sort of digital storage of files, make paper copies and place them in the custody of a trusted relative or friend, preferably outside of your immediate area.
 
 
 
