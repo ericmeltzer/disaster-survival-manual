@@ -119,13 +119,39 @@ This is the most basic of questions. Our answer begins with the most basic of ne
 * Your skin and hair may become very dirty and smelly. Place some large, moistened sanitary wipes in your kit for a quick wipedown.
 * Pack a toothbrush and toothpaste to try to maintain oral hygiene.
 * People will continue to poop and pee, so you will want to be ready with tome toilet paper and/or sanitary wipes. You can turn a five gallon pail into a temporary toilet, and bury human waste as necessary. Children in diapers and adults with incontinence or ostomy products need to have their supplies included in your kit.
-* Other organic waste products, such as spoiled food and pet waste will also need to be accounted for. Remember, normal sanitation services (sewer, running water, trash services) may not be available for some time. Plan accordingly.
+* Other organic waste products, such as spoiled food and pet waste also need to be accounted for. Remember, normal sanitation services (sewer, running water, trash services) may not be available for some time. Plan accordingly.
  
 **First Aid**
 
-**Personal Security**
+Please see the section in this manual on First Aid.
 
-**Finances**
+**Personal Security**
+* Your best bet for personal security is to try to get to a place where law enforcement or the military is visible, in control, and able to provide for the safety of civilians.
+* Always travel with at least one other person, especially at night and in unsecured surroundings.
+* Listen to your senses. If you feel unsafe or unsure of something or somebody, leave.
+* Those who are properly trained and licensed may elect to carry a weapon but be aware that this can actually increase your security risk.**
+
+**Finances and Identification**
+
+Natural and man-made disasters always have a significant financial impact on the inhabitants and businesses of the affected areas. If you lose your home, you may also lose access to the documents needed to help in your financial recovery. It is important to include financial information and proof of identity in your kit and/or have copies of documents that will be accessible to you during the recovery phase of the disaster.
+
+*Important documents*
+* photo identification (driver's license, state IDs, passports)
+* social security cards
+* medical insurance cards
+* lists of current medical conditions, prescription medications, and doctors
+* homeowners, renters, vehicle insurance information
+* life insurance information
+* deeds, wills, birth certificates, advanced medical directives
+* photos of household contents, including garage and yard items, vehicles
+
+*Cash.* Include cash in your kit. How much is up to you, but be aware that banks and other financial institutions may not be able open for some time, ATM machines may be nun-functional, and credit/debit cards transactions unavailable. Cash may be the only option available to you for purchasing needed items. Businesses that are open may not accept large denomination bills if they are short on cash themselves.
+
+*Alternatives to Storing Documents in Your Kit*
+If you are worried about keeping documents in your kit consider placing digitally encrypted copies online.You can also encrypt copies and put them on USB drive in your kit. If you are uncomfortable with any sort of digital storage of files, make copies and place them in the custody of a trusted relative or friend, preferably outside of your immediate area.
+
+
+
 
 
 
