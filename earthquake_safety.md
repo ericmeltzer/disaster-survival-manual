@@ -14,7 +14,11 @@ Secure any important loose items in your home. You can use "quake putty", a reus
 
 ## During an Earthquake
 ###Drop, Cover, Hold on
-If you are inside, as soon as you sense shaking, get down to the ground, so you don't fall. Find a sturdy piece of furniture, such as a desk or table, and crawl under it and hold on. The biggest danger is from falling or flying objects, which is why under furniture is the safest place to be. If you cannot find something to get under, crouch next to an interior wall and cover your head and neck with your arms.
+If you are inside, as soon as you sense shaking, **drop** down to the ground on your hands and knees. **Cover** your head and neck with your hand. Find a sturdy piece of furniture, such as a desk or table, and crawl under it and **hold** on. Furniture can move in a big earthquake, prepare to move with it so your body remains covered.
+
+The biggest danger is from falling or flying objects, which is why under furniture is the safest place to be. Even in the unlikely scenario of a building collapse, a sturdy desk or table can preserve the space under it. If you cannot find something to get under, crouch next to something sturdy, such as an interior wall. Remain on your hands and knees to protect your vital organs, and keep your head covered. 
+
+If you are in bed when an earthquake starts, stay in bed, and cover your head with a pillow.
 
 Contrary to popular belief, do **not** crouch next to furniture and do **not** stand inside a doorway. These actions do not protect you from the biggest source of injury: falling and flying objects.
 
