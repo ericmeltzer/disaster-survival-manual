@@ -76,7 +76,7 @@ Your emergency plan informs what you need in and where you locate your emergency
 * *Vehicle*. Many people own a vehicle. If you use your vehicle to get to work and park it in an area unlikely to be affected by a disaster, you may decide to combine your work kit and vehicle kit. However, our vehicles often transport more than just one person, so its prudent to have supplies in a vehicle kit to support yourself and several passengers. Keep your kit in the trunk or under a blanket or tarp to conceal it from would-be thieves.
 
 ## What should be in my kit?
-This is the most basic of questions. Our answer begins with the most basic of needs: water, food, air, shelter, sleep, and sanitation.
+This is the most basic of questions. Our answer begins with the most basic of needs: water, food, air, shelter, sleep, vision, and sanitation.
 
 **Water**
 * 1 gallon (4 liters) per person per day, for 7 days
@@ -98,10 +98,16 @@ This is the most basic of questions. Our answer begins with the most basic of ne
 * Disasters stink, literally and figuratively. Be prepared for unpleasant odors by having a jar of Vicks® VapoRub™, mint oil,  or another aromatic to dab beneath your nose.
 
 **Shelter**
-*  If you are unable to stay in your home you will need to find shelter. Friends, family, hotels, and so on may not be able to ttake you in. So unless disaster befalls you on a tropical island, you will likely need protection from immoderate temperatures, precipitation, sun exposure, insects, and wild animals.
-* Privacy.
-* Sleep
-* Lighting
+*  If you are unable to stay in your home you will need to find shelter. Friends, family, hotels, and so on may not be able to ttake you in. So unless disaster befalls you on a tropical island, you will likely need protection from immoderate temperatures, precipitation, sun exposure, insects, and wild animals. If you have a vehicle, that's a good place to start. Tents and other portable shelters may be needed to accommodate larger groups. 
+* Following a disaster, many people experience a profound loss of privacy which can impact their psychological and physical well-being. Arranging for even the most elementary privacy in the form of a temporary blanket barrier may help people better cope with their situation.
+* Sleep deprivation can have serious consequences for your judgment, reaction time, and other skills needed to keep you safe. Be sure to get your sleep whenever and wherever you can.
+
+**Vision** If you can't see you are significantly handicapped during an emergency. 
+
+
+
+
+* Be sure to include lighting in your shelter plans. 
 
 Vehicles, tents, tarps
 Mass care shelters
