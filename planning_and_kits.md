@@ -36,18 +36,18 @@ You can't plan for every possible contingency. Emergency managers suggest that y
 
 **Natural and Manmade/Technologial Disasters.** Consider the most probable types of *natural* disasters: earthquake, hurricane, tornado, floods, blizzard, wild fire, landslide, tsunami, and the the most probable *man-made or technological* disasters: radiological/nuclear, biological or chemical release, explosion, civil disturbance, dam failure, mass transportation incident, long-term electrical outage.
 
-**Who is in the plan?**
+**Who Is in The Plan?**
 Next, consider who you need to include in your disaster plan. Start with yourself and then geographically expand the plan to include your family, friends, and animals. You must also**** consider the possible locations of your plan participants when a disaster occurs, such as home, work, school, or elsewhere.
 
 Your plan needs to include any special needs of the plan participants based on age, health status, and mobility.
 
-**How will you communicate with one another?** Communications is the key to the smooth functioning of a plan. Many of us routinely use electronic communications with plan participant  which may not be available in the immediate aftermath of a disaster. Assume that mobile phones, landlines, and internet will *not* be working. 
+**Emergency Communications.** Communications is the key to the smooth functioning of a plan. Many of us routinely use electronic communications with plan participant  which may not be available in the immediate aftermath of a disaster. Assume that mobile phones, landlines, and internet will *not* be working. 
 
 Your plan should include an assembly area (your home is the logical primary choice) that people will try to make their way to following a disaster. However, you should also plan an alternate assembly area in case your home is destroyed or unsafe, such as a school, park, or some other location your disaster probability analysis has indicated will likely be outside of the impacted area. If possible, leave a sign at your primary assembly area telling people to meet you at the alternate location.
 
 While restoring communications will be a top priority of emergency personnel following a disaster, their first priority will be communications for disaster responders, government, businesses and lastly the general public. Meanwhile, you need to try to stay abreast of disaster news as best as you can,
 
-**Communicating Person to Person or Point to Point**
+**Personal Electronic Communications**
 
 * *Landline*. Local calls may not be possible, but long-distance calls may actually work. Stay on the line until you hear a dialtone, and then call an out-of-state contact to let them know your status. Make sure everyone in your plan knows this contact person and how to reach them.
 * *Mobile Phone*. Mobile phone towers will be damaged and/or overloaded.
@@ -55,7 +55,7 @@ While restoring communications will be a top priority of emergency personnel fol
 * *FRS/GMRS Radio*. These inexpensive, walkie-talkie-like radios are good for short distance communications, a few city blocks, up to several miles in an unobstructed location. Family Radio Service (FRS) does not require a license from the FCC, however General Mobile Radio Service (GMRS) radios do. You will often find FRS and GMRS capabilities offered in the same radio handset.
 * *Amateur Radio, Including Packet Data.* The most reliable form of disaster communications is Amateur Radio, also known as "ham" radio. This requires a license from the FCC. While primarily used for voice communications, some ham operators can send email and other files through radios connected to the Internet.
 
-**Listening to Broadcasts**
+**Broadcast Communications**
 
 * *AM/FM Radio.* have a portable radio with extra batteries
 * *Television.* cable and satellite TV will probably be off-line; however, broadcast television stations often disaster resistant broadcast capabilities. Since power may be out, a battery-operated TV may be useful. 
@@ -68,32 +68,34 @@ While restoring communications will be a top priority of emergency personnel fol
 * Date each notice you place and provide information about how to contact you.
 
 # Making the Plan-Kit Connection
+Your emergency plan informs what you need in and where you locate your emergency kits. Yes, that is kits, plural, because you never know where you might be when disaster strikes and unless you plan to have your kit in a backpack, and our backpack always with you, your will need more than one.
 
-## Where should I keep my kit?
-* Home
-* Work
-* Auto
+## Kit L**ocations?
+* Home**. This is your primary kit, meant to support you and other members of your household, for up to 7 days. (Other authorities will suggest 3 days of emergency supplies. Experience following major disaster such as hurricanes Katrina and Sandy, blizzards in New England, and other events suggests that it may take up to a week for significant emergency resources to reach an area. More and more Community Emergency Response Teams (CERT) are now recommending one week of supplies.)
+* *Work*. The contents of work kit depends upon the emergency plans of your workplace. Some businesses have robust emergency plans including "arks" brimming with emergency supplies, employees trained in first aid, search and rescue, and radio communications. Your employer may be prepared to support its employees for several days if necessary. (Many schools have such plans, so if you have school-age children they will be taken care of.) Small businesses may have nothing more than a first aid kit. Inquire about your workplace plans. At the very least, be sure you have a supply of any prescription medications you may need to take and a backpack that could support you should you need to walk home.
+* *Vehicle*. Many people own a vehicle. If you use your vehicle to get to work and park it in an area unlikely to be affected by a disaster, you may decide to combine your work kit and vehicle kit. However, our vehicles often transport more than just one person, so its prudent to have supplies in a vehicle kit to support yourself and several passengers. Keep your kit in the trunk or under a blanket or tarp to conceal it from would-be thieves.
 
 ## What should be in my kit?
-**Basic Needs: Water, Food, Air, Shelter, Sleep, Sanitation
+This is the most basic of questions. Our answer begins with the most basic of needs: water, food, air, shelter, sleep, and sanitation.
 
 **Water**
-* 1 gallon (4 liters) per person per day. 
-* Plan for at least 7 days
-* More in hot weather, lactating women, or those who are ill
+* 1 gallon (4 liters) per person per day, for 7 days
+* More water in hot weather, lactating women, or those who are ill
 * Never ration water; find more (check hot water tank, toilet tank, freezer, water pipes)
-* Purify your own water:
+* Purify your own water: see the information from the  [Centers for Disease Control](http://www.cdc.gov/healthywater/drinking/travel/emergency_disinfection.html).
 
 **Food**
 
-* 1500 calories per person per day
-* Protein, carbohydrates, fats
-* Mass care feeding programs
+* 2500 calories per person per day (may be slightly more or less based on metabolic rate, activity, and age)
+* Include items you know people will eat (test-drive your survival foods) and exclude items that are known allergens for those in your household
+* If you are using dehydrated foods, increase water supplies accordingly
+* If you have foods that need to be cooked, be sure to include the necessary utensils and cooking devices
+* Plan for disposal of food scraps and food packaging
+* Be alert for announcements of mass care feeding programs such as those offered by the American Red Cross and the Salvation Army following disasters
 
 **Air**
-* Hazardous chemicals and particulates
-* Biological threats
-* Odors
+* Assume that local air may contain hazardous chemicals,  particulates, or biological pathogens; have filter masks for everyone in your household
+* Disasters stink, literally and figuratively. Be prepared for unpleasant odors by having a jar of Vicks or similar mentholated gel to place beneath your nose.
 
 **Shelter**
 * Air Temperature
