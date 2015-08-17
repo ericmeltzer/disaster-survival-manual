@@ -6,7 +6,7 @@ Secure the top of furniture that can tip over, such as book shelves, dressers, w
 
 Anything that hangs on a wall can fall even in a small earthquake. To prevent this, hang picture frames and objects using picture wire and "maze hooks". You should still avoid hanging anything over your bed that could fall on you while you sleep.
 
-Earthquakes can cause items inside cabinets to move around, pushing the cabinet door to open, and fall out. Consider installing push-latches on cabinet doors to prevent this. Make sure heavy objects such as books, and hazardous items such as household chemicals, cannot fall or spill in an earthquake.
+Earthquakes can cause items inside cabinets to move around, pushing the cabinet door to open, and fall out. Consider installing push-latches on cabinet doors to prevent this. You may want to further secure heavy objects such as books, and hazardous items such as household chemicals, with straps.
 
 Secure any important loose items in your home. You can use "quake putty", a reusable putty adhesive, to hold objects down, so they don't fall during an earthquake. You may want to do this with expensive items such as antiques and electronics.
 
