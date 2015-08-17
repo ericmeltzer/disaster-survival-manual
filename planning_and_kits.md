@@ -102,20 +102,16 @@ This is the most basic of questions. Our answer begins with the most basic of ne
 * Following a disaster, many people experience a profound loss of privacy which can impact their psychological and physical well-being. Arranging for even the most elementary privacy in the form of a temporary blanket barrier may help people better cope with their situation.
 * Sleep deprivation can have serious consequences for your judgment, reaction time, and other skills needed to keep you safe. Be sure to get your sleep whenever and wherever you can.
 
-**Vision** If you can't see you are significantly handicapped during an emergency. 
-
-
-
-
-* Be sure to include lighting in your shelter plans. 
-
-Vehicles, tents, tarps
-Mass care shelters
+**Vision** 
+* If you can't see you are significantly handicapped during an emergency. Be sure to include emergency lighting (flashlights, lanterns, candles).
+* Likewise, include back-up prescription eyewear, safety goggles (to protect your eyes from airborne particulates), sunglasses, and eye drops to hydrate or flush foreign particles from your eyes.
+* A magnifying glass may be useful in helping you remove small splinters and can also be used to start a fire.
 
 **Sanitation**
-* Skin, Hair, Mouth
-* Urine and Feces
-* Other Waste Products
+* Your skin and hair may become very dirty and smelly. Place some large, moistened sanitary wipes in your kit for a quick wipedown.
+* Pack a toothbrush and toothpaste to try to maintain oral hygiene.
+* People will continue to poop and pee, so you will want to be ready with tome toilet paper and/or sanitary wipes. You can turn a five gallon pail into a temporary toilet, and bury human waste as necessary. Children in diapers and adults with incontinence or ostomy products need to have their supplies included in your kit.
+* Other organic waste products, such as spoiled food and pet waste will also need to be accounted for. Remember, normal sanitation services (sewer, running water, trash services) may not be available for some time. Plan accordingly.
 
 **Safety Needs:** 
 * Personal Security
