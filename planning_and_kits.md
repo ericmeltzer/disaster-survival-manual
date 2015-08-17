@@ -98,10 +98,8 @@ This is the most basic of questions. Our answer begins with the most basic of ne
 * Disasters stink, literally and figuratively. Be prepared for unpleasant odors by having a jar of Vicks® VapoRub™, mint oil,  or another aromatic to dab beneath your nose.
 
 **Shelter**
-* Air Temperature
-* Precipitation
-* Sun exposure
-* Privacy
+*  If you are unable to stay in your home you will need to find shelter. Friends, family, hotels, and so on may not be able to ttake you in. So unless disaster befalls you on a tropical island, you will likely need protection from immoderate temperatures, precipitation, sun exposure, insects, and wild animals.
+* Privacy.
 * Sleep
 * Lighting
 
