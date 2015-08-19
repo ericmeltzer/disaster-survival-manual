@@ -10,7 +10,8 @@ Earthquakes can cause items inside cabinets to move around, pushing the cabinet 
 
 Secure any important loose items in your home. You can use "quake putty", a reusable putty adhesive, to hold objects down, so they don't fall during an earthquake. You may want to do this with expensive items such as antiques and electronics.
 
-
+### Children
+Go over and practice what they should do during an earthquake: Drop, Cover, and Hold on. Identify areas in your house where they will be safe. Tell kids that they should get safe and stay there, and you will come and find them. They should absolutely not attempt to come find you during an earthquake. Especially at night, they should stay in their bed, cover their head with a pillow, and you will come to them.
 
 ## During an Earthquake
 ###Drop, Cover, Hold on
