@@ -13,6 +13,11 @@ Secure any important loose items in your home. You can use "quake putty", a reus
 ### Children
 Go over and practice what they should do during an earthquake: Drop, Cover, and Hold on. Identify areas in your house where they will be safe. Tell kids that they should get safe and stay there, and you will come and find them. They should absolutely not attempt to come find you during an earthquake. Especially at night, they should stay in their bed, cover their head with a pillow, and you will come to them.
 
+### Pets
+Identify household hold items, foods, and plants that are toxic to your pets. Make sure these items cannot fall or spill during an earthquake. For example, do not leave foods that are toxic to your pets on counter tops.
+
+Secure larger pet cages or aquariums the same way you would with furniture, e.g. brace or strap them down.
+
 ## During an Earthquake
 ###Drop, Cover, Hold on
 If you are inside, as soon as you sense shaking, **drop** down to the ground on your hands and knees. **Cover** your head and neck with your hand. Find a sturdy piece of furniture, such as a desk or table, and crawl under it and **hold** on. Furniture can move in a big earthquake, prepare to move with it so your body remains covered.
