@@ -14,7 +14,7 @@ In any case of multiple casualties, some will recover if you do nothing, some wi
 1. Look around and pick an easily identifiable area that is safe from immediate danger.
 2. Loudly and clearly announce, "Listen! If you can move, go to [name and description of safe area]." 
 
-Anyone that can do this is no longer your concern. If they have injuries, they can be treated later. They can also be called on to assist with later steps if needed.
+Anyone that can do this is no longer your immediate concern. If they have injuries, they can be treated later. They can also be called on to assist with later steps if needed.
 
 Now, **only if it is safe to do so**, enter the area with additional casualties and do a quick evaluation. You want to spend about 30 seconds per person.
 
