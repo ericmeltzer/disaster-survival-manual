@@ -6,6 +6,7 @@ Communication
 * How to listen to emergency frequencies
 * Amateur Radio Emergency Services
 * FRS uses and limitations
+* Morse code
 
 ###Sources
 
@@ -20,10 +21,18 @@ Communication
 
 ####Receiver - OK to operate without a license
 
-####Transeiver - need an FCC license for anything above FRS
+####Transceiver - need an FCC license for anything above FRS
 
 ####FRS - walkie talkies. 1-2 mile range maximum. 
 
 ####Twitter
 * how to find the emergency twitter handles in your area
+
+####Morse Code
+* http://www.learnmorsecode.com/
+* Not required for HAM
+
+###Extras:
+* Boston Bombing RACES
+* Nepal earthquake HAM assistance  
 
