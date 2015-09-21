@@ -10,7 +10,7 @@
 * [Search and Rescue](search_and_rescue.md)
 * [Earthquake Safety](earthquake_safety.md)
 * [Appendix 1: Gear lists](appendix_1_gear_lists.md)
-* Appendix 3: Plan template
 * [Appendix 2: Rope and Knots](appendix_2_rope_and_knots.md)
+* Appendix 3: Plan template
 * [Style Guide](style_guide.md)
 
