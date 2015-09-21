@@ -18,7 +18,7 @@ Third: please start writing wherever you'd like, except the two appendices. Feel
 
 Style, content & sourcing
 
-1. **Only include actionable information, minimize background info that is interesting but isn't directly usable by people in a disaster situation.** This is the most important guideline. This book will be read by people in disaster situations and must value concision over all else.
+1. **Only include actionable information, minimize background info that is interesting but isn't directly usable by people in a disaster situation.** This is the most important guideline. This book will be read by people in disaster situations and must value concision over all else. Opinionated is better than vague; it's important to suggest a specific action rather than a class of actions or possibilities. 
 
 
 2. The guide is primarily intended for people living in cities, so at least for now the stuff that other guides include about hunting for game etc can be left out. 
