@@ -7,12 +7,12 @@ With professional help on the way, your next task is to assess where that help w
 
 ## Priorities
 
-First and foremost, make sure you are safe and uninjured. Just like they tell you during the airline safety briefing, "Secure you own mask before helping others." If you injure yourself while attempting to help another there are now two casualties and one less person to help. So you have made the chances of the person you were trying to help worse and have endangered yourself in the process. Don't do that.
+First and foremost, make sure you are safe and uninjured. If you injure yourself while attempting to help someone else, you've made their chances worse, and have endangered yourself in the process.
 
 
 ## Triage
 
-In any case of multiple casualties, some will recover if you do nothing, some will die if everything possible is done, others will recover only if the correct things are done quickly. The goal of triage is to clearly identify the groups so that the resources on the way can be directed to aid them appropriately.
+There are three categories of people for the purpose of triage: those who will recover if you do nothing, those who will recover only if the correct things are done quickly, and those who will die even if everything possible is done. The goal of triage is to quickly and clearly identify which group each person belongs to.w
 
 1. Look around and pick an easily identifiable area that is safe from immediate danger.
 2. Loudly and clearly announce, "Listen! If you can move, go to [name and description of safe area]."
