@@ -7,7 +7,7 @@ Even the most basic plan and kit will vastly improve your outlook if a disaster 
 
 **INSTALL AND MAINTAIN SMOKE/CARBON MONOXIDE ALARMS** 
 
-Look for alarms that detect carbon monoxide as well as smoke, and ideally alarms that use both photoelectric and ionization methods of detection. Smoke alarms have a life expectancy of 8-10 years. The year of manufacture is stamped on each alarm. If yours is 8-10 years old, replace it. You can optionally install lithium batteries in the new detectors with a life expectancy of 10 years and save money in the long run versus alkaline batteries that should be replaced annually. Remember to regularly push test your alarm to make sure it is functioning, and should you ever hear an unexplained alarm sound, get out and stay out.
+Look for alarms that detect carbon monoxide as well as smoke, and ideally alarms that use both photoelectric and ionization methods of detection. Smoke alarms have a life expectancy of 8-10 years. The year of manufacture is stamped on each alarm. If yours is 8-10 years old, replace it. You can optionally install lithium batteries in the new detectors with a life expectancy of 10 years and save money in the long run versus alkaline batteries that should be replaced annually. Legal requirements vary by state, but one alarm per bedroom, one outside every bedroom, and at least one per floor of your house including basements is a good starting point. It takes a surprisingly long time for a smoke alarm to go off if the source isn't in the same room as the alarm, so more alarms are always a good investment. Remember to regularly push test your alarm to make sure it is functioning, and should you ever hear an unexplained alarm sound, get out and stay out.
 
 **PRE-POSITION FIRE EXTINGUISHERS**
 
