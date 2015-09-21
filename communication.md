@@ -1,6 +1,6 @@
-Communication
+#Communication/Staying Informed
 
-###Rough Outline
+##Rough Outline
 * Mention how cell networks typically crash during emergencies in the US
 * Twitter
 * How to listen to emergency frequencies
@@ -8,31 +8,31 @@ Communication
 * FRS uses and limitations
 * Morse code
 
-###Sources
+##AM/FM Radio
 
-####HAM Radio
+##FRS - walkie talkies. 1-2 mile range maximum. 
 
-####Local Amateur Radio Emergency Operation
+##HAM Radio
+
+###Local Amateur Radio Emergency Operation
 * http://www.arrl.org/ares
 * http://www.arrl.org/ares-races-faq
 
-####how to find the emergency stations in your area
+###how to find the emergency stations in your area
 * http://www.radioreference.com/
 
-####Receiver - OK to operate without a license
+###Receiver - OK to operate without a license
 
-####Transceiver - need an FCC license for anything above FRS
+###Transceiver - need an FCC license for anything above FRS
 
-####FRS - walkie talkies. 1-2 mile range maximum. 
-
-####Twitter
+##Twitter
 * how to find the emergency twitter handles in your area
 
-####Morse Code
+##Morse Code
 * http://www.learnmorsecode.com/
 * Not required for HAM
 
-###Extras:
+##Extras:
 * Boston Bombing RACES
 * Nepal earthquake HAM assistance  
 
