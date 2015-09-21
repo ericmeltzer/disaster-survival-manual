@@ -22,8 +22,8 @@ Anyone that can do this is no longer your immediate concern. If they have injuri
 Now, **only if it is safe to do so**, enter the area with additional casualties and do a quick evaluation. You want to spend about 30 seconds per person.
 
 1. Is the person breathing? If yes, go to step 3.
-2. If the person is not breathing, clear their airway. (Remove blocking material, manually thrust their jaw forward, tilt head if no danger of neck injury.) Are they breathing now?  If yes, use a Sharpie to mark their forehead with Roman number I. If no, mark them with a zero. Move on.
-3. Is the person breathing more than 5 times in 10 seconds? If yes, mark with Roman number I, move on. If no, go to step 4.
+2. If the person is not breathing, clear their airway. (Remove blocking material, manually thrust their jaw forward, tilt head if no danger of neck injury.) Are they breathing now?  If yes, use a Sharpie to mark their forehead with Roman numeral I. If no, mark them with a zero. Move on.
+3. Is the person breathing more than 5 times in 10 seconds? If yes, mark with Roman numeral I, move on. If no, go to step 4.
 4. Squeeze the person's fingernail until the nailbed blanches of color. Release and count how long it takes to return to color. If more than 2 seconds, mark with Roman numeral I, move on. If less, go to step 5.
 5. Ask the person their name and what happened. If they do not reply or reply inappropriately, mark with Roman numeral I, move on. If they answer appropriately, mark with Roman numeral II, move on.
 
@@ -44,11 +44,11 @@ Put on the nitrile gloves from your kit.
 
 Now, approach the person you plan to assist. First, obtain permission to assist them. Say "Hi, my name is [your name]. Can I help you?"
 
-If they answer in the affirmative, you may proceed. If they say nothing, their silence implies consent. If they say "No," and
+If they answer in the affirmative, you may proceed. If they say nothing, their silence implies consent. If they say "No," and they are:
 
-1. Are not impaired by drugs or alcohol,
-2. Are of legal age, and
-3. Understand that they are injured,
+1. Not impaired by drugs or alcohol,
+2. Of legal age, and
+3. Aware that they are injured,
 
 Back off until the help you're sent for arrives.
 
@@ -93,6 +93,24 @@ If pressure and elevation are not stopping the bleeding, try to find a pressure 
 Tourniquets are a last resort. Using a tourniquet is essentially condemning the person to amputation at some point. If you must use a tourniquet, get the tactical tourniquet from your kit. Find a place between the heart and the wound to place it. You want something over solid bone (not on a joint or fracture). [[ Insert instructions for applying the tactical tourniquet. ]]
 
 When the tourniquet is in place, mark the time on the label area. Do not cover the tourniquet with additional bandages, blankets, or a coat. Emergency responders will need to know that a tourniquet has been applied and when it was applied.
+
+### Repeat A B C
+
+Once you've established an airway for the injured person, they are breathing, and their blood is circulating, you have covered the large portion of things that will cause them to die in short order. Re-check these things every five minutes. Remember, a person can live without an airway for only four to six minutes. If you don't know what to do next for the person you are treating, re-check your A B C.
+
+#### Special Cases: Sucking Chest Wound
+
+A mix of a Breathing and Circulation problem, this is a wound that penetrates the chest cavity. So we have bleeding from the wound itself and the fact that air is going in and out of the wound, not into the lungs where it belongs.
+
+Treatment of these is straight-forward: apply an occulsive dressing. There is one included in your kit, just apply sticky-side down. If you've used this previously or don't have your kit, get creative. The goal is to get an air-tight seal so that breathing gets air into the lungs through the airway that you've established. Examples of improvised occlusive dressings (usually combined with tape for the edges):
+
+* plastic wrap,
+* credit cards,
+* candy wrappers,
+* petroleum jelly on gauze,
+* playing cards.
+
+Once the wound is sealed, continue to check the person's breathing. If they have increased trouble breathing, air may be building up pressure in the chest cavity, collapsing the lung. This could be caused by an injury to the lung itself or from a hole you haven't found yet. In any case, the treatment is to equalize the pressure by unsealing the bandage, "burping" the wound by applying pressure to the chest to force the air out, and re-sealing.
 
 
 
