@@ -21,7 +21,7 @@ Being in good physical and mental shape will help you be ready for any disaster.
 
 **LEARN TO USE AND CONTROL STRESS**
 
-In situations you cannot control, being able to control your own emotions is an invaluable skill, and one that can be honed with practice. Every stressful situation in your daily life is a free chance to practice reacting calmly to stressors. If you get cut off on the freeway, or if someone is rude to you, allow the stress you feel to slip away and not perturb your calm. This will get easier the more you do it.
+In situations you cannot control, being able to control your own emotions is an invaluable skill, and one that can be honed with practice. Every stressful situation in your daily life is a free chance to practice reacting calmly to stress. If you get cut off on the freeway, or if someone is rude to you, allow the stress you feel to slip away and not perturb your calm. This will get easier the more you do it.
 
 There are also many disciplines that can enhance your control over your emotional state, including cognitive restructuring techniques, Eastern meditation, and Stoic philosophy (1)(US Army Survival Manual ch 1).
 
