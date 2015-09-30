@@ -126,7 +126,7 @@ Natural and man-made disasters always have a significant financial impact on the
 * deeds, wills, birth certificates, advanced medical directives
 * photos of household contents, including garage and yard items, vehicles
 * 
-###Broadcast Communications
+Broadcast Communications
 
 * *AM/FM Radio.* have a portable radio with extra batteries
 * *Television.* cable and satellite TV will probably be off-line; however, broadcast television stations often disaster resistant broadcast capabilities. Since power may be out, a battery-operated TV may be useful. 
@@ -141,9 +141,6 @@ Natural and man-made disasters always have a significant financial impact on the
 *Cash.* Include cash in your kit. How much is up to you, but be aware that banks and other financial institutions may not be able open for some time, ATM machines may be nun-functional, and credit/debit cards transactions unavailable. Cash may be the only option available to you for purchasing needed items. Businesses that are open may not accept large denomination bills if they are short on cash themselves.
 
 *Alternative Documents Storage.* If you are worried about keeping documents in your kit consider placing digitally encrypted copies online.You can also encrypt copies and put them on USB drive in your kit. If you are uncomfortable with any sort of digital storage of files, make paper copies and place them in the custody of a trusted relative or friend, preferably outside of your immediate area.
-
-
-
 
 ###Home 
 This is your primary kit, meant to support you and other members of your household, for up to 7 days. (Other authorities will suggest 3 days of emergency supplies. Experience following major disaster such as hurricanes Katrina and Sandy, blizzards in New England, and other events suggests that it may take up to a week for significant emergency resources to reach an area. More and more Community Emergency Response Teams (CERT) are now recommending one week of supplies.)
